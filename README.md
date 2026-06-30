@@ -7,21 +7,7 @@ Danil Alekseevich Smirnov
 ## Faculty/Institute/Cluster
 
 Faculty of Control Systems and Robotics
-## Group
 
-R34403
-## Subject Area
-
-13.03.02 Electric Power Engineering and Electrical Engineering
-## Educational Program
-
-Digital Control Systems 2020
-## Language of the Educational Program
-
-Russian
-## Degree Level
-
-Bachelor
 ## Thesis Topic
 
 Control System for the Power Converter of a Wind Power Installation Based on the Magnus Effect
