@@ -1,4 +1,4 @@
-# GRADUATION-THESIS
+# THESIS
 Final Bachelor's Degree Qualification Work
 
 ## Student
